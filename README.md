@@ -16,8 +16,4 @@ During my internship at OpenText, I worked on various front-end development task
 ⚡ Material UI  
 ⚡ Git & GitHub  
 
-# Demo Link
-
-file:///C:/Users/Guraiah/Downloads/ServiceLetter_100749%20(1).pdf
-</br>
 
